@@ -1,0 +1,223 @@
+﻿CATEGORY_ID,CATEGORY_NAME,PRODUCT_ID,PRODUCT_NAME,DESCRIPTION,Speed(GHz),Cores,TDP(W),STANDARD_COST,LIST_PRICE,COUNTRY_ID,REGION_ID,LOCATION_ID,WAREHOUSE_ID,QUANTITY,WAREHOUSE_NAME,ADDRESS,POSTAL_CODE,CITY,STATE,COUNTRY_NAME
+1,CPU,8,Intel Xeon E5-1650 V4,"Speed:3.6GHz,Cores:6,TDP:140W",3.6,6,140,535.47,601.99,CN,3,11,8,50,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,8,Intel Xeon E5-1650 V4,"Speed:3.6GHz,Cores:6,TDP:140W",3.6,6,140,535.47,601.99,IN,3,12,9,36,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,8,Intel Xeon E5-1650 V4,"Speed:3.6GHz,Cores:6,TDP:140W",3.6,6,140,535.47,601.99,US,2,6,2,97,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,8,Intel Xeon E5-1650 V4,"Speed:3.6GHz,Cores:6,TDP:140W",3.6,6,140,535.47,601.99,US,2,8,4,67,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,8,Intel Xeon E5-1650 V4,"Speed:3.6GHz,Cores:6,TDP:140W",3.6,6,140,535.47,601.99,AU,3,13,6,30,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,124,Intel Xeon E5-1650 V4 (OEM/Tray),"Speed:3.6GHz,Cores:6,TDP:140W",3.6,6,140,453.14,594.99,CN,3,11,8,26,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,124,Intel Xeon E5-1650 V4 (OEM/Tray),"Speed:3.6GHz,Cores:6,TDP:140W",3.6,6,140,453.14,594.99,IN,3,12,9,11,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,124,Intel Xeon E5-1650 V4 (OEM/Tray),"Speed:3.6GHz,Cores:6,TDP:140W",3.6,6,140,453.14,594.99,US,2,6,2,184,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,124,Intel Xeon E5-1650 V4 (OEM/Tray),"Speed:3.6GHz,Cores:6,TDP:140W",3.6,6,140,453.14,594.99,US,2,8,4,103,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,124,Intel Xeon E5-1650 V4 (OEM/Tray),"Speed:3.6GHz,Cores:6,TDP:140W",3.6,6,140,453.14,594.99,AU,3,13,6,59,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,72,Intel Xeon E5-2630 V3 (OEM/Tray),"Speed:2.4GHz,Cores:8,TDP:85W",2.4,8,85,421.9,589.99,CN,3,11,8,50,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,72,Intel Xeon E5-2630 V3 (OEM/Tray),"Speed:2.4GHz,Cores:8,TDP:85W",2.4,8,85,421.9,589.99,IN,3,12,9,35,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,72,Intel Xeon E5-2630 V3 (OEM/Tray),"Speed:2.4GHz,Cores:8,TDP:85W",2.4,8,85,421.9,589.99,US,2,6,2,155,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,72,Intel Xeon E5-2630 V3 (OEM/Tray),"Speed:2.4GHz,Cores:8,TDP:85W",2.4,8,85,421.9,589.99,US,2,8,4,77,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,72,Intel Xeon E5-2630 V3 (OEM/Tray),"Speed:2.4GHz,Cores:8,TDP:85W",2.4,8,85,421.9,589.99,AU,3,13,6,35,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,80,Intel Xeon E5-1650 V3,"Speed:3.5GHz,Cores:6,TDP:140W",3.5,6,140,399.77,564.89,CN,3,11,8,41,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,80,Intel Xeon E5-1650 V3,"Speed:3.5GHz,Cores:6,TDP:140W",3.5,6,140,399.77,564.89,IN,3,12,9,29,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,80,Intel Xeon E5-1650 V3,"Speed:3.5GHz,Cores:6,TDP:140W",3.5,6,140,399.77,564.89,US,2,5,1,125,"Southlake, Texas",2014 Jabberwocky Rd,26192,Southlake,Texas,United States of America
+1,CPU,80,Intel Xeon E5-1650 V3,"Speed:3.5GHz,Cores:6,TDP:140W",3.5,6,140,399.77,564.89,US,2,6,2,113,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,80,Intel Xeon E5-1650 V3,"Speed:3.5GHz,Cores:6,TDP:140W",3.5,6,140,399.77,564.89,US,2,7,3,101,New Jersey,2007 Zagora St,50090,South Brunswick,New Jersey,United States of America
+1,CPU,80,Intel Xeon E5-1650 V3,"Speed:3.5GHz,Cores:6,TDP:140W",3.5,6,140,399.77,564.89,US,2,8,4,89,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,80,Intel Xeon E5-1650 V3,"Speed:3.5GHz,Cores:6,TDP:140W",3.5,6,140,399.77,564.89,CA,2,9,5,77,Toronto,147 Spadina Ave,M5V 2L7,Toronto,Ontario,Canada
+1,CPU,80,Intel Xeon E5-1650 V3,"Speed:3.5GHz,Cores:6,TDP:140W",3.5,6,140,399.77,564.89,AU,3,13,6,65,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,80,Intel Xeon E5-1650 V3,"Speed:3.5GHz,Cores:6,TDP:140W",3.5,6,140,399.77,564.89,MX,2,23,7,53,Mexico City,Mariano Escobedo 9991,11932,Monterrey,Nuevo Le¢n,Mexico
+1,CPU,132,Intel Core i7-5930K,"Speed:3.5GHz,Cores:6,TDP:140W",3.5,6,140,481.56,554.99,CN,3,11,8,28,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,132,Intel Core i7-5930K,"Speed:3.5GHz,Cores:6,TDP:140W",3.5,6,140,481.56,554.99,IN,3,12,9,13,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,132,Intel Core i7-5930K,"Speed:3.5GHz,Cores:6,TDP:140W",3.5,6,140,481.56,554.99,US,2,5,1,133,"Southlake, Texas",2014 Jabberwocky Rd,26192,Southlake,Texas,United States of America
+1,CPU,132,Intel Core i7-5930K,"Speed:3.5GHz,Cores:6,TDP:140W",3.5,6,140,481.56,554.99,US,2,6,2,185,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,132,Intel Core i7-5930K,"Speed:3.5GHz,Cores:6,TDP:140W",3.5,6,140,481.56,554.99,US,2,7,3,136,New Jersey,2007 Zagora St,50090,South Brunswick,New Jersey,United States of America
+1,CPU,132,Intel Core i7-5930K,"Speed:3.5GHz,Cores:6,TDP:140W",3.5,6,140,481.56,554.99,US,2,8,4,104,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,132,Intel Core i7-5930K,"Speed:3.5GHz,Cores:6,TDP:140W",3.5,6,140,481.56,554.99,CA,2,9,5,81,Toronto,147 Spadina Ave,M5V 2L7,Toronto,Ontario,Canada
+1,CPU,132,Intel Core i7-5930K,"Speed:3.5GHz,Cores:6,TDP:140W",3.5,6,140,481.56,554.99,AU,3,13,6,60,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,132,Intel Core i7-5930K,"Speed:3.5GHz,Cores:6,TDP:140W",3.5,6,140,481.56,554.99,MX,2,23,7,45,Mexico City,Mariano Escobedo 9991,11932,Monterrey,Nuevo Le¢n,Mexico
+1,CPU,228,Intel Xeon E5-2699 V3 (OEM/Tray),"Speed:2.3GHz,Cores:18,TDP:145W",2.3,18,145,2867.51,3410.46,US,2,6,2,189,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,228,Intel Xeon E5-2699 V3 (OEM/Tray),"Speed:2.3GHz,Cores:18,TDP:145W",2.3,18,145,2867.51,3410.46,AU,3,13,6,141,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,2,Intel Xeon E5-2697 V4,"Speed:2.3GHz,Cores:18,TDP:145W",2.3,18,145,2144.4,2554.99,CN,3,11,8,34,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,2,Intel Xeon E5-2697 V4,"Speed:2.3GHz,Cores:18,TDP:145W",2.3,18,145,2144.4,2554.99,IN,3,12,9,23,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,2,Intel Xeon E5-2697 V4,"Speed:2.3GHz,Cores:18,TDP:145W",2.3,18,145,2144.4,2554.99,US,2,7,3,100,New Jersey,2007 Zagora St,50090,South Brunswick,New Jersey,United States of America
+1,CPU,2,Intel Xeon E5-2697 V4,"Speed:2.3GHz,Cores:18,TDP:145W",2.3,18,145,2144.4,2554.99,CA,2,9,5,71,Toronto,147 Spadina Ave,M5V 2L7,Toronto,Ontario,Canada
+1,CPU,2,Intel Xeon E5-2697 V4,"Speed:2.3GHz,Cores:18,TDP:145W",2.3,18,145,2144.4,2554.99,AU,3,13,6,58,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,2,Intel Xeon E5-2697 V4,"Speed:2.3GHz,Cores:18,TDP:145W",2.3,18,145,2144.4,2554.99,MX,2,23,7,46,Mexico City,Mariano Escobedo 9991,11932,Monterrey,Nuevo Le¢n,Mexico
+1,CPU,46,Intel Xeon E5-2695 V3 (OEM/Tray),"Speed:2.3GHz,Cores:14,TDP:120W",2.3,14,120,1925.13,2431.95,CN,3,11,8,7,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,46,Intel Xeon E5-2695 V3 (OEM/Tray),"Speed:2.3GHz,Cores:14,TDP:120W",2.3,14,120,1925.13,2431.95,IN,3,12,9,6,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,46,Intel Xeon E5-2695 V3 (OEM/Tray),"Speed:2.3GHz,Cores:14,TDP:120W",2.3,14,120,1925.13,2431.95,US,2,7,3,112,New Jersey,2007 Zagora St,50090,South Brunswick,New Jersey,United States of America
+1,CPU,46,Intel Xeon E5-2695 V3 (OEM/Tray),"Speed:2.3GHz,Cores:14,TDP:120W",2.3,14,120,1925.13,2431.95,CA,2,9,5,90,Toronto,147 Spadina Ave,M5V 2L7,Toronto,Ontario,Canada
+1,CPU,46,Intel Xeon E5-2695 V3 (OEM/Tray),"Speed:2.3GHz,Cores:14,TDP:120W",2.3,14,120,1925.13,2431.95,AU,3,13,6,29,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,46,Intel Xeon E5-2695 V3 (OEM/Tray),"Speed:2.3GHz,Cores:14,TDP:120W",2.3,14,120,1925.13,2431.95,MX,2,23,7,18,Mexico City,Mariano Escobedo 9991,11932,Monterrey,Nuevo Le¢n,Mexico
+1,CPU,47,Intel Xeon E5-2697 V2,"Speed:2.7GHz,Cores:12,TDP:130W",2.7,12,130,2101.59,2377.09,CN,3,11,8,11,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,47,Intel Xeon E5-2697 V2,"Speed:2.7GHz,Cores:12,TDP:130W",2.7,12,130,2101.59,2377.09,IN,3,12,9,0,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,47,Intel Xeon E5-2697 V2,"Speed:2.7GHz,Cores:12,TDP:130W",2.7,12,130,2101.59,2377.09,US,2,7,3,66,New Jersey,2007 Zagora St,50090,South Brunswick,New Jersey,United States of America
+1,CPU,47,Intel Xeon E5-2697 V2,"Speed:2.7GHz,Cores:12,TDP:130W",2.7,12,130,2101.59,2377.09,CA,2,9,5,44,Toronto,147 Spadina Ave,M5V 2L7,Toronto,Ontario,Canada
+1,CPU,47,Intel Xeon E5-2697 V2,"Speed:2.7GHz,Cores:12,TDP:130W",2.7,12,130,2101.59,2377.09,AU,3,13,6,33,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,47,Intel Xeon E5-2697 V2,"Speed:2.7GHz,Cores:12,TDP:130W",2.7,12,130,2101.59,2377.09,MX,2,23,7,22,Mexico City,Mariano Escobedo 9991,11932,Monterrey,Nuevo Le¢n,Mexico
+1,CPU,91,Intel Xeon E5-2695 V2,"Speed:2.4GHz,Cores:12,TDP:115W",2.4,12,115,1793.53,2259.99,CN,3,11,8,34,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,91,Intel Xeon E5-2695 V2,"Speed:2.4GHz,Cores:12,TDP:115W",2.4,12,115,1793.53,2259.99,IN,3,12,9,22,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,91,Intel Xeon E5-2695 V2,"Speed:2.4GHz,Cores:12,TDP:115W",2.4,12,115,1793.53,2259.99,US,2,7,3,94,New Jersey,2007 Zagora St,50090,South Brunswick,New Jersey,United States of America
+1,CPU,91,Intel Xeon E5-2695 V2,"Speed:2.4GHz,Cores:12,TDP:115W",2.4,12,115,1793.53,2259.99,CA,2,9,5,70,Toronto,147 Spadina Ave,M5V 2L7,Toronto,Ontario,Canada
+1,CPU,91,Intel Xeon E5-2695 V2,"Speed:2.4GHz,Cores:12,TDP:115W",2.4,12,115,1793.53,2259.99,AU,3,13,6,58,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,91,Intel Xeon E5-2695 V2,"Speed:2.4GHz,Cores:12,TDP:115W",2.4,12,115,1793.53,2259.99,MX,2,23,7,46,Mexico City,Mariano Escobedo 9991,11932,Monterrey,Nuevo Le¢n,Mexico
+1,CPU,98,Intel Xeon E5-2687W V3,"Speed:3.1GHz,Cores:10,TDP:160W",3.1,10,160,1781.47,2064.99,CN,3,11,8,45,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,98,Intel Xeon E5-2687W V3,"Speed:3.1GHz,Cores:10,TDP:160W",3.1,10,160,1781.47,2064.99,IN,3,12,9,32,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,98,Intel Xeon E5-2687W V3,"Speed:3.1GHz,Cores:10,TDP:160W",3.1,10,160,1781.47,2064.99,US,2,7,3,69,New Jersey,2007 Zagora St,50090,South Brunswick,New Jersey,United States of America
+1,CPU,98,Intel Xeon E5-2687W V3,"Speed:3.1GHz,Cores:10,TDP:160W",3.1,10,160,1781.47,2064.99,CA,2,9,5,86,Toronto,147 Spadina Ave,M5V 2L7,Toronto,Ontario,Canada
+1,CPU,98,Intel Xeon E5-2687W V3,"Speed:3.1GHz,Cores:10,TDP:160W",3.1,10,160,1781.47,2064.99,AU,3,13,6,72,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,98,Intel Xeon E5-2687W V3,"Speed:3.1GHz,Cores:10,TDP:160W",3.1,10,160,1781.47,2064.99,MX,2,23,7,58,Mexico City,Mariano Escobedo 9991,11932,Monterrey,Nuevo Le¢n,Mexico
+1,CPU,102,Intel Xeon E5-2687W V4,"Speed:3.0GHz,Cores:12,TDP:160W",3,12,160,1723.83,2042.69,CN,3,11,8,49,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,102,Intel Xeon E5-2687W V4,"Speed:3.0GHz,Cores:12,TDP:160W",3,12,160,1723.83,2042.69,IN,3,12,9,36,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,102,Intel Xeon E5-2687W V4,"Speed:3.0GHz,Cores:12,TDP:160W",3,12,160,1723.83,2042.69,US,2,7,3,73,New Jersey,2007 Zagora St,50090,South Brunswick,New Jersey,United States of America
+1,CPU,102,Intel Xeon E5-2687W V4,"Speed:3.0GHz,Cores:12,TDP:160W",3,12,160,1723.83,2042.69,CA,2,9,5,90,Toronto,147 Spadina Ave,M5V 2L7,Toronto,Ontario,Canada
+1,CPU,102,Intel Xeon E5-2687W V4,"Speed:3.0GHz,Cores:12,TDP:160W",3,12,160,1723.83,2042.69,AU,3,13,6,76,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,102,Intel Xeon E5-2687W V4,"Speed:3.0GHz,Cores:12,TDP:160W",3,12,160,1723.83,2042.69,MX,2,23,7,62,Mexico City,Mariano Escobedo 9991,11932,Monterrey,Nuevo Le¢n,Mexico
+1,CPU,159,Intel Xeon E5-2690 V4,"Speed:2.6GHz,Cores:14,TDP:135W",2.6,14,135,1499.26,1994.49,CN,3,11,8,27,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,159,Intel Xeon E5-2690 V4,"Speed:2.6GHz,Cores:14,TDP:135W",2.6,14,135,1499.26,1994.49,IN,3,12,9,15,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,159,Intel Xeon E5-2690 V4,"Speed:2.6GHz,Cores:14,TDP:135W",2.6,14,135,1499.26,1994.49,US,2,7,3,87,New Jersey,2007 Zagora St,50090,South Brunswick,New Jersey,United States of America
+1,CPU,159,Intel Xeon E5-2690 V4,"Speed:2.6GHz,Cores:14,TDP:135W",2.6,14,135,1499.26,1994.49,CA,2,9,5,63,Toronto,147 Spadina Ave,M5V 2L7,Toronto,Ontario,Canada
+1,CPU,159,Intel Xeon E5-2690 V4,"Speed:2.6GHz,Cores:14,TDP:135W",2.6,14,135,1499.26,1994.49,AU,3,13,6,51,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,159,Intel Xeon E5-2690 V4,"Speed:2.6GHz,Cores:14,TDP:135W",2.6,14,135,1499.26,1994.49,MX,2,23,7,39,Mexico City,Mariano Escobedo 9991,11932,Monterrey,Nuevo Le¢n,Mexico
+1,CPU,160,Intel Xeon E5-2690 V3,"Speed:2.6GHz,Cores:12,TDP:135W",2.6,12,135,1540.35,1908.73,CN,3,11,8,33,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,160,Intel Xeon E5-2690 V3,"Speed:2.6GHz,Cores:12,TDP:135W",2.6,12,135,1540.35,1908.73,IN,3,12,9,21,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,160,Intel Xeon E5-2690 V3,"Speed:2.6GHz,Cores:12,TDP:135W",2.6,12,135,1540.35,1908.73,US,2,7,3,93,New Jersey,2007 Zagora St,50090,South Brunswick,New Jersey,United States of America
+1,CPU,160,Intel Xeon E5-2690 V3,"Speed:2.6GHz,Cores:12,TDP:135W",2.6,12,135,1540.35,1908.73,CA,2,9,5,69,Toronto,147 Spadina Ave,M5V 2L7,Toronto,Ontario,Canada
+1,CPU,160,Intel Xeon E5-2690 V3,"Speed:2.6GHz,Cores:12,TDP:135W",2.6,12,135,1540.35,1908.73,AU,3,13,6,57,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,160,Intel Xeon E5-2690 V3,"Speed:2.6GHz,Cores:12,TDP:135W",2.6,12,135,1540.35,1908.73,MX,2,23,7,45,Mexico City,Mariano Escobedo 9991,11932,Monterrey,Nuevo Le¢n,Mexico
+1,CPU,163,Intel Xeon E5-2683 V4,"Speed:2.1GHz,Cores:16,TDP:120W",2.1,16,120,1706.95,1899.99,CN,3,11,8,47,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,163,Intel Xeon E5-2683 V4,"Speed:2.1GHz,Cores:16,TDP:120W",2.1,16,120,1706.95,1899.99,IN,3,12,9,35,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,163,Intel Xeon E5-2683 V4,"Speed:2.1GHz,Cores:16,TDP:120W",2.1,16,120,1706.95,1899.99,US,2,7,3,107,New Jersey,2007 Zagora St,50090,South Brunswick,New Jersey,United States of America
+1,CPU,163,Intel Xeon E5-2683 V4,"Speed:2.1GHz,Cores:16,TDP:120W",2.1,16,120,1706.95,1899.99,CA,2,9,5,83,Toronto,147 Spadina Ave,M5V 2L7,Toronto,Ontario,Canada
+1,CPU,163,Intel Xeon E5-2683 V4,"Speed:2.1GHz,Cores:16,TDP:120W",2.1,16,120,1706.95,1899.99,AU,3,13,6,71,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,163,Intel Xeon E5-2683 V4,"Speed:2.1GHz,Cores:16,TDP:120W",2.1,16,120,1706.95,1899.99,MX,2,23,7,59,Mexico City,Mariano Escobedo 9991,11932,Monterrey,Nuevo Le¢n,Mexico
+1,CPU,241,Intel Xeon E5-2699 V4 (OEM/Tray),"Speed:2.2GHz,Cores:22,TDP:145W",2.2,22,145,1535.62,1756,CN,3,11,8,121,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,241,Intel Xeon E5-2699 V4 (OEM/Tray),"Speed:2.2GHz,Cores:22,TDP:145W",2.2,22,145,1535.62,1756,IN,3,12,9,109,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,241,Intel Xeon E5-2699 V4 (OEM/Tray),"Speed:2.2GHz,Cores:22,TDP:145W",2.2,22,145,1535.62,1756,US,2,7,3,181,New Jersey,2007 Zagora St,50090,South Brunswick,New Jersey,United States of America
+1,CPU,241,Intel Xeon E5-2699 V4 (OEM/Tray),"Speed:2.2GHz,Cores:22,TDP:145W",2.2,22,145,1535.62,1756,CA,2,9,5,157,Toronto,147 Spadina Ave,M5V 2L7,Toronto,Ontario,Canada
+1,CPU,241,Intel Xeon E5-2699 V4 (OEM/Tray),"Speed:2.2GHz,Cores:22,TDP:145W",2.2,22,145,1535.62,1756,AU,3,13,6,145,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,241,Intel Xeon E5-2699 V4 (OEM/Tray),"Speed:2.2GHz,Cores:22,TDP:145W",2.2,22,145,1535.62,1756,MX,2,23,7,133,Mexico City,Mariano Escobedo 9991,11932,Monterrey,Nuevo Le¢n,Mexico
+1,CPU,242,Intel Xeon E5-1680 V3 (OEM/Tray),"Speed:3.2GHz,Cores:8,TDP:140W",3.2,8,140,1519.85,1751.99,CN,3,11,8,121,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,242,Intel Xeon E5-1680 V3 (OEM/Tray),"Speed:3.2GHz,Cores:8,TDP:140W",3.2,8,140,1519.85,1751.99,IN,3,12,9,109,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,242,Intel Xeon E5-1680 V3 (OEM/Tray),"Speed:3.2GHz,Cores:8,TDP:140W",3.2,8,140,1519.85,1751.99,US,2,7,3,181,New Jersey,2007 Zagora St,50090,South Brunswick,New Jersey,United States of America
+1,CPU,242,Intel Xeon E5-1680 V3 (OEM/Tray),"Speed:3.2GHz,Cores:8,TDP:140W",3.2,8,140,1519.85,1751.99,CA,2,9,5,157,Toronto,147 Spadina Ave,M5V 2L7,Toronto,Ontario,Canada
+1,CPU,242,Intel Xeon E5-1680 V3 (OEM/Tray),"Speed:3.2GHz,Cores:8,TDP:140W",3.2,8,140,1519.85,1751.99,AU,3,13,6,145,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,242,Intel Xeon E5-1680 V3 (OEM/Tray),"Speed:3.2GHz,Cores:8,TDP:140W",3.2,8,140,1519.85,1751.99,MX,2,23,7,133,Mexico City,Mariano Escobedo 9991,11932,Monterrey,Nuevo Le¢n,Mexico
+1,CPU,243,Intel Xeon E5-2643 V4 (OEM/Tray),"Speed:3.4GHz,Cores:6,TDP:135W",3.4,6,135,1225.59,1708.86,CN,3,11,8,121,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,243,Intel Xeon E5-2643 V4 (OEM/Tray),"Speed:3.4GHz,Cores:6,TDP:135W",3.4,6,135,1225.59,1708.86,IN,3,12,9,109,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,243,Intel Xeon E5-2643 V4 (OEM/Tray),"Speed:3.4GHz,Cores:6,TDP:135W",3.4,6,135,1225.59,1708.86,US,2,7,3,181,New Jersey,2007 Zagora St,50090,South Brunswick,New Jersey,United States of America
+1,CPU,243,Intel Xeon E5-2643 V4 (OEM/Tray),"Speed:3.4GHz,Cores:6,TDP:135W",3.4,6,135,1225.59,1708.86,CA,2,9,5,157,Toronto,147 Spadina Ave,M5V 2L7,Toronto,Ontario,Canada
+1,CPU,243,Intel Xeon E5-2643 V4 (OEM/Tray),"Speed:3.4GHz,Cores:6,TDP:135W",3.4,6,135,1225.59,1708.86,AU,3,13,6,145,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,243,Intel Xeon E5-2643 V4 (OEM/Tray),"Speed:3.4GHz,Cores:6,TDP:135W",3.4,6,135,1225.59,1708.86,MX,2,23,7,133,Mexico City,Mariano Escobedo 9991,11932,Monterrey,Nuevo Le¢n,Mexico
+1,CPU,19,Intel Core i7-6950X (OEM/Tray),"Speed:3.0GHz,Cores:10,TDP:140W",3,10,140,1479.56,1704.37,CN,3,11,8,54,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,19,Intel Core i7-6950X (OEM/Tray),"Speed:3.0GHz,Cores:10,TDP:140W",3,10,140,1479.56,1704.37,IN,3,12,9,3,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,19,Intel Core i7-6950X (OEM/Tray),"Speed:3.0GHz,Cores:10,TDP:140W",3,10,140,1479.56,1704.37,US,2,6,2,101,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,19,Intel Core i7-6950X (OEM/Tray),"Speed:3.0GHz,Cores:10,TDP:140W",3,10,140,1479.56,1704.37,US,2,8,4,71,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,19,Intel Core i7-6950X (OEM/Tray),"Speed:3.0GHz,Cores:10,TDP:140W",3,10,140,1479.56,1704.37,AU,3,13,6,35,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,212,Intel Xeon E5-2680 V4,"Speed:2.4GHz,Cores:14,TDP:120W",2.4,14,120,1365.13,1639.99,CN,3,11,8,123,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,212,Intel Xeon E5-2680 V4,"Speed:2.4GHz,Cores:14,TDP:120W",2.4,14,120,1365.13,1639.99,IN,3,12,9,111,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,212,Intel Xeon E5-2680 V4,"Speed:2.4GHz,Cores:14,TDP:120W",2.4,14,120,1365.13,1639.99,US,2,6,2,195,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,212,Intel Xeon E5-2680 V4,"Speed:2.4GHz,Cores:14,TDP:120W",2.4,14,120,1365.13,1639.99,US,2,8,4,171,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,212,Intel Xeon E5-2680 V4,"Speed:2.4GHz,Cores:14,TDP:120W",2.4,14,120,1365.13,1639.99,AU,3,13,6,147,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,166,Intel Xeon E5-2680 V3 (OEM/Tray),"Speed:2.5GHz,Cores:12,TDP:120W",2.5,12,120,1166.89,1638.89,CN,3,11,8,66,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,166,Intel Xeon E5-2680 V3 (OEM/Tray),"Speed:2.5GHz,Cores:12,TDP:120W",2.5,12,120,1166.89,1638.89,IN,3,12,9,54,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,166,Intel Xeon E5-2680 V3 (OEM/Tray),"Speed:2.5GHz,Cores:12,TDP:120W",2.5,12,120,1166.89,1638.89,US,2,6,2,138,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,166,Intel Xeon E5-2680 V3 (OEM/Tray),"Speed:2.5GHz,Cores:12,TDP:120W",2.5,12,120,1166.89,1638.89,US,2,8,4,114,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,166,Intel Xeon E5-2680 V3 (OEM/Tray),"Speed:2.5GHz,Cores:12,TDP:120W",2.5,12,120,1166.89,1638.89,AU,3,13,6,90,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,218,Intel Xeon E5-2660 V4,"Speed:2.0GHz,Cores:14,TDP:105W",2,14,105,1194.03,1388.89,CN,3,11,8,126,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,218,Intel Xeon E5-2660 V4,"Speed:2.0GHz,Cores:14,TDP:105W",2,14,105,1194.03,1388.89,IN,3,12,9,114,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,218,Intel Xeon E5-2660 V4,"Speed:2.0GHz,Cores:14,TDP:105W",2,14,105,1194.03,1388.89,US,2,6,2,198,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,218,Intel Xeon E5-2660 V4,"Speed:2.0GHz,Cores:14,TDP:105W",2,14,105,1194.03,1388.89,US,2,8,4,174,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,218,Intel Xeon E5-2660 V4,"Speed:2.0GHz,Cores:14,TDP:105W",2,14,105,1194.03,1388.89,AU,3,13,6,150,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,211,Intel Xeon E5-2650,"Speed:2.0GHz,Cores:8,TDP:95W",2,8,95,869.03,1064.99,CN,3,11,8,123,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,211,Intel Xeon E5-2650,"Speed:2.0GHz,Cores:8,TDP:95W",2,8,95,869.03,1064.99,IN,3,12,9,111,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,211,Intel Xeon E5-2650,"Speed:2.0GHz,Cores:8,TDP:95W",2,8,95,869.03,1064.99,US,2,6,2,195,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,211,Intel Xeon E5-2650,"Speed:2.0GHz,Cores:8,TDP:95W",2,8,95,869.03,1064.99,US,2,8,4,171,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,211,Intel Xeon E5-2650,"Speed:2.0GHz,Cores:8,TDP:95W",2,8,95,869.03,1064.99,AU,3,13,6,147,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,210,Intel Core i9-7900X,"Speed:3.3GHz,Cores:10,TDP:140W",3.3,10,140,855.82,1029.99,CN,3,11,8,122,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,210,Intel Core i9-7900X,"Speed:3.3GHz,Cores:10,TDP:140W",3.3,10,140,855.82,1029.99,IN,3,12,9,110,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,210,Intel Core i9-7900X,"Speed:3.3GHz,Cores:10,TDP:140W",3.3,10,140,855.82,1029.99,US,2,6,2,194,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,210,Intel Core i9-7900X,"Speed:3.3GHz,Cores:10,TDP:140W",3.3,10,140,855.82,1029.99,US,2,8,4,170,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,210,Intel Core i9-7900X,"Speed:3.3GHz,Cores:10,TDP:140W",3.3,10,140,855.82,1029.99,AU,3,13,6,146,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,54,Intel Xeon E5-1660 V3 (OEM/Tray),"Speed:3.0GHz,Cores:8,TDP:140W",3,8,140,914.52,1019.99,CN,3,11,8,44,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,54,Intel Xeon E5-1660 V3 (OEM/Tray),"Speed:3.0GHz,Cores:8,TDP:140W",3,8,140,914.52,1019.99,IN,3,12,9,33,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,54,Intel Xeon E5-1660 V3 (OEM/Tray),"Speed:3.0GHz,Cores:8,TDP:140W",3,8,140,914.52,1019.99,US,2,6,2,110,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,54,Intel Xeon E5-1660 V3 (OEM/Tray),"Speed:3.0GHz,Cores:8,TDP:140W",3,8,140,914.52,1019.99,US,2,8,4,88,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,54,Intel Xeon E5-1660 V3 (OEM/Tray),"Speed:3.0GHz,Cores:8,TDP:140W",3,8,140,914.52,1019.99,AU,3,13,6,66,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,214,Intel Core i7-5960X,"Speed:3.0GHz,Cores:8,TDP:140W",3,8,140,865.59,1009.79,CN,3,11,8,124,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,214,Intel Core i7-5960X,"Speed:3.0GHz,Cores:8,TDP:140W",3,8,140,865.59,1009.79,IN,3,12,9,112,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,214,Intel Core i7-5960X,"Speed:3.0GHz,Cores:8,TDP:140W",3,8,140,865.59,1009.79,US,2,6,2,196,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,214,Intel Core i7-5960X,"Speed:3.0GHz,Cores:8,TDP:140W",3,8,140,865.59,1009.79,US,2,8,4,172,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,214,Intel Core i7-5960X,"Speed:3.0GHz,Cores:8,TDP:140W",3,8,140,865.59,1009.79,AU,3,13,6,148,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,9,Intel Xeon E5-2640 V4,"Speed:2.4GHz,Cores:10,TDP:90W",2.4,10,90,738.71,899.99,CN,3,11,8,50,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,9,Intel Xeon E5-2640 V4,"Speed:2.4GHz,Cores:10,TDP:90W",2.4,10,90,738.71,899.99,IN,3,12,9,36,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,9,Intel Xeon E5-2640 V4,"Speed:2.4GHz,Cores:10,TDP:90W",2.4,10,90,738.71,899.99,US,2,6,2,97,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,9,Intel Xeon E5-2640 V4,"Speed:2.4GHz,Cores:10,TDP:90W",2.4,10,90,738.71,899.99,US,2,8,4,67,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,9,Intel Xeon E5-2640 V4,"Speed:2.4GHz,Cores:10,TDP:90W",2.4,10,90,738.71,899.99,AU,3,13,6,31,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,119,Intel Xeon E5-2640 V3,"Speed:2.6GHz,Cores:8,TDP:90W",2.6,8,90,668.24,899.99,CN,3,11,8,25,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,119,Intel Xeon E5-2640 V3,"Speed:2.6GHz,Cores:8,TDP:90W",2.6,8,90,668.24,899.99,IN,3,12,9,10,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,119,Intel Xeon E5-2640 V3,"Speed:2.6GHz,Cores:8,TDP:90W",2.6,8,90,668.24,899.99,US,2,6,2,183,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,119,Intel Xeon E5-2640 V3,"Speed:2.6GHz,Cores:8,TDP:90W",2.6,8,90,668.24,899.99,US,2,8,4,102,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,119,Intel Xeon E5-2640 V3,"Speed:2.6GHz,Cores:8,TDP:90W",2.6,8,90,668.24,899.99,AU,3,13,6,58,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,120,Intel Core 2 Extreme QX9775,"Speed:3.2GHz,Cores:4,TDP:150W",3.2,4,150,737.68,892,CN,3,11,8,25,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,120,Intel Core 2 Extreme QX9775,"Speed:3.2GHz,Cores:4,TDP:150W",3.2,4,150,737.68,892,IN,3,12,9,10,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,120,Intel Core 2 Extreme QX9775,"Speed:3.2GHz,Cores:4,TDP:150W",3.2,4,150,737.68,892,US,2,6,2,183,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,120,Intel Core 2 Extreme QX9775,"Speed:3.2GHz,Cores:4,TDP:150W",3.2,4,150,737.68,892,US,2,8,4,102,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,120,Intel Core 2 Extreme QX9775,"Speed:3.2GHz,Cores:4,TDP:150W",3.2,4,150,737.68,892,AU,3,13,6,58,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,136,AMD Opteron 6378,"Speed:2.4GHz,Cores:16,TDP:115W",2.4,16,115,651.92,826.99,CN,3,11,8,28,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,136,AMD Opteron 6378,"Speed:2.4GHz,Cores:16,TDP:115W",2.4,16,115,651.92,826.99,IN,3,12,9,14,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,136,AMD Opteron 6378,"Speed:2.4GHz,Cores:16,TDP:115W",2.4,16,115,651.92,826.99,US,2,6,2,186,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,136,AMD Opteron 6378,"Speed:2.4GHz,Cores:16,TDP:115W",2.4,16,115,651.92,826.99,US,2,8,4,105,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,136,AMD Opteron 6378,"Speed:2.4GHz,Cores:16,TDP:115W",2.4,16,115,651.92,826.99,AU,3,13,6,61,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,27,Intel Core i7-3960X Extreme Edition,"Speed:3.3GHz,Cores:6,TDP:130W",3.3,6,130,573.41,800.74,CN,3,11,8,6,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,27,Intel Core i7-3960X Extreme Edition,"Speed:3.3GHz,Cores:6,TDP:130W",3.3,6,130,573.41,800.74,IN,3,12,9,5,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,27,Intel Core i7-3960X Extreme Edition,"Speed:3.3GHz,Cores:6,TDP:130W",3.3,6,130,573.41,800.74,US,2,6,2,106,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,27,Intel Core i7-3960X Extreme Edition,"Speed:3.3GHz,Cores:6,TDP:130W",3.3,6,130,573.41,800.74,US,2,8,4,73,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,27,Intel Core i7-3960X Extreme Edition,"Speed:3.3GHz,Cores:6,TDP:130W",3.3,6,130,573.41,800.74,AU,3,13,6,37,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,73,Intel Core i7-4770K,"Speed:3.5GHz,Cores:4,TDP:84W",3.5,4,84,714.15,799,CN,3,11,8,39,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,73,Intel Core i7-4770K,"Speed:3.5GHz,Cores:4,TDP:84W",3.5,4,84,714.15,799,IN,3,12,9,27,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,73,Intel Core i7-4770K,"Speed:3.5GHz,Cores:4,TDP:84W",3.5,4,84,714.15,799,US,2,6,2,111,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,73,Intel Core i7-4770K,"Speed:3.5GHz,Cores:4,TDP:84W",3.5,4,84,714.15,799,US,2,8,4,87,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,73,Intel Core i7-4770K,"Speed:3.5GHz,Cores:4,TDP:84W",3.5,4,84,714.15,799,AU,3,13,6,63,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,70,Intel Xeon E5-2687W,"Speed:3.1GHz,Cores:8,TDP:150W",3.1,8,150,581.16,710.99,CN,3,11,8,50,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,70,Intel Xeon E5-2687W,"Speed:3.1GHz,Cores:8,TDP:150W",3.1,8,150,581.16,710.99,IN,3,12,9,35,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,70,Intel Xeon E5-2687W,"Speed:3.1GHz,Cores:8,TDP:150W",3.1,8,150,581.16,710.99,US,2,6,2,155,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,70,Intel Xeon E5-2687W,"Speed:3.1GHz,Cores:8,TDP:150W",3.1,8,150,581.16,710.99,US,2,8,4,76,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,70,Intel Xeon E5-2687W,"Speed:3.1GHz,Cores:8,TDP:150W",3.1,8,150,581.16,710.99,AU,3,13,6,35,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,74,Intel Xeon E5-2680 V2,"Speed:2.8GHz,Cores:10,TDP:115W",2.8,10,115,567.81,701.95,CN,3,11,8,39,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,74,Intel Xeon E5-2680 V2,"Speed:2.8GHz,Cores:10,TDP:115W",2.8,10,115,567.81,701.95,IN,3,12,9,27,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,74,Intel Xeon E5-2680 V2,"Speed:2.8GHz,Cores:10,TDP:115W",2.8,10,115,567.81,701.95,US,2,6,2,111,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,74,Intel Xeon E5-2680 V2,"Speed:2.8GHz,Cores:10,TDP:115W",2.8,10,115,567.81,701.95,US,2,8,4,87,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,74,Intel Xeon E5-2680 V2,"Speed:2.8GHz,Cores:10,TDP:115W",2.8,10,115,567.81,701.95,AU,3,13,6,63,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,198,Intel Core i7-980,"Speed:3.33GHz,Cores:6,TDP:130W",3.33,6,130,563.7,699.99,CN,3,11,8,140,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,198,Intel Core i7-980,"Speed:3.33GHz,Cores:6,TDP:130W",3.33,6,130,563.7,699.99,IN,3,12,9,122,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,198,Intel Core i7-980,"Speed:3.33GHz,Cores:6,TDP:130W",3.33,6,130,563.7,699.99,US,2,6,2,175,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,198,Intel Core i7-980,"Speed:3.33GHz,Cores:6,TDP:130W",3.33,6,130,563.7,699.99,US,2,8,4,225,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,198,Intel Core i7-980,"Speed:3.33GHz,Cores:6,TDP:130W",3.33,6,130,563.7,699.99,AU,3,13,6,176,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,69,Intel Core i7-7820X,"Speed:3.6GHz,Cores:8,TDP:140W",3.6,8,140,511.1,678.75,CN,3,11,8,50,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,69,Intel Core i7-7820X,"Speed:3.6GHz,Cores:8,TDP:140W",3.6,8,140,511.1,678.75,IN,3,12,9,35,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,69,Intel Core i7-7820X,"Speed:3.6GHz,Cores:8,TDP:140W",3.6,8,140,511.1,678.75,US,2,6,2,154,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,69,Intel Core i7-7820X,"Speed:3.6GHz,Cores:8,TDP:140W",3.6,8,140,511.1,678.75,US,2,8,4,76,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,69,Intel Core i7-7820X,"Speed:3.6GHz,Cores:8,TDP:140W",3.6,8,140,511.1,678.75,AU,3,13,6,35,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,71,Intel Core i7-3930K,"Speed:3.2GHz,Cores:6,TDP:130W",3.2,6,130,509.32,660,CN,3,11,8,50,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,71,Intel Core i7-3930K,"Speed:3.2GHz,Cores:6,TDP:130W",3.2,6,130,509.32,660,IN,3,12,9,35,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,71,Intel Core i7-3930K,"Speed:3.2GHz,Cores:6,TDP:130W",3.2,6,130,509.32,660,US,2,6,2,155,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,71,Intel Core i7-3930K,"Speed:3.2GHz,Cores:6,TDP:130W",3.2,6,130,509.32,660,US,2,8,4,76,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,71,Intel Core i7-3930K,"Speed:3.2GHz,Cores:6,TDP:130W",3.2,6,130,509.32,660,AU,3,13,6,35,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,199,Intel Xeon E5-2630 V4,"Speed:2.2GHz,Cores:10,TDP:85W",2.2,10,85,528.95,647.99,CN,3,11,8,141,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,199,Intel Xeon E5-2630 V4,"Speed:2.2GHz,Cores:10,TDP:85W",2.2,10,85,528.95,647.99,IN,3,12,9,123,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,199,Intel Xeon E5-2630 V4,"Speed:2.2GHz,Cores:10,TDP:85W",2.2,10,85,528.95,647.99,US,2,6,2,176,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,199,Intel Xeon E5-2630 V4,"Speed:2.2GHz,Cores:10,TDP:85W",2.2,10,85,528.95,647.99,US,2,8,4,226,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,199,Intel Xeon E5-2630 V4,"Speed:2.2GHz,Cores:10,TDP:85W",2.2,10,85,528.95,647.99,AU,3,13,6,176,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,76,Intel Xeon E5-2630 V3,"Speed:2.4GHz,Cores:8,TDP:85W",2.4,8,85,499.96,629.99,CN,3,11,8,40,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,76,Intel Xeon E5-2630 V3,"Speed:2.4GHz,Cores:8,TDP:85W",2.4,8,85,499.96,629.99,IN,3,12,9,28,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,76,Intel Xeon E5-2630 V3,"Speed:2.4GHz,Cores:8,TDP:85W",2.4,8,85,499.96,629.99,US,2,6,2,112,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,76,Intel Xeon E5-2630 V3,"Speed:2.4GHz,Cores:8,TDP:85W",2.4,8,85,499.96,629.99,US,2,8,4,88,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,76,Intel Xeon E5-2630 V3,"Speed:2.4GHz,Cores:8,TDP:85W",2.4,8,85,499.96,629.99,AU,3,13,6,64,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,200,Intel Core i7-4790K,"Speed:4.0GHz,Cores:4,TDP:88W",4,4,88,461.92,620.95,CN,3,11,8,141,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,200,Intel Core i7-4790K,"Speed:4.0GHz,Cores:4,TDP:88W",4,4,88,461.92,620.95,IN,3,12,9,123,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,200,Intel Core i7-4790K,"Speed:4.0GHz,Cores:4,TDP:88W",4,4,88,461.92,620.95,US,2,6,2,176,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,200,Intel Core i7-4790K,"Speed:4.0GHz,Cores:4,TDP:88W",4,4,88,461.92,620.95,US,2,8,4,226,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,200,Intel Core i7-4790K,"Speed:4.0GHz,Cores:4,TDP:88W",4,4,88,461.92,620.95,AU,3,13,6,177,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
+1,CPU,106,Intel Xeon E5-2640 V2,"Speed:2.0GHz,Cores:8,TDP:95W",2,8,95,545.19,608.95,CN,3,11,8,21,Beijing,40-5-12 Laogianggen,190518,Beijing,Shenzhen,China
+1,CPU,106,Intel Xeon E5-2640 V2,"Speed:2.0GHz,Cores:8,TDP:95W",2,8,95,545.19,608.95,IN,3,12,9,6,Bombay,1298 Vileparle (E),490231,Bombay,Maharashtra,India
+1,CPU,106,Intel Xeon E5-2640 V2,"Speed:2.0GHz,Cores:8,TDP:95W",2,8,95,545.19,608.95,US,2,6,2,178,San Francisco,2011 Interiors Blvd,99236,South San Francisco,California,United States of America
+1,CPU,106,Intel Xeon E5-2640 V2,"Speed:2.0GHz,Cores:8,TDP:95W",2,8,95,545.19,608.95,US,2,8,4,97,"Seattle, Washington",2004 Charade Rd,98199,Seattle,Washington,United States of America
+1,CPU,106,Intel Xeon E5-2640 V2,"Speed:2.0GHz,Cores:8,TDP:95W",2,8,95,545.19,608.95,AU,3,13,6,53,Sydney,12-98 Victoria Street,2901,Sydney,New South Wales,Australia
